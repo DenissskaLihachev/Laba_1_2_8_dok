@@ -1,0 +1,10 @@
+﻿  Preopbr.cpp
+C:\Users\CAMSANG\Desktop\Денчик\8\Project1\Project1\Preopbr.cpp(54,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Readers.cpp
+  Source.cpp
+C:\Users\CAMSANG\Desktop\Денчик\8\Project1\Project1\Source.cpp(16,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+C:\Users\CAMSANG\Desktop\Денчик\8\Project1\Project1\Preopbr.cpp(48): warning C4715: isChar: значение возвращается не при всех путях выполнения
+C:\Users\CAMSANG\Desktop\Денчик\8\Project1\Project1\Preopbr.cpp(26): warning C4715: isInteger: значение возвращается не при всех путях выполнения
+C:\Users\CAMSANG\Desktop\Денчик\8\Project1\Project1\Preopbr.cpp(112): warning C4715: isInteger_l: значение возвращается не при всех путях выполнения
+  Project1.vcxproj -> C:\Users\CAMSANG\Desktop\Денчик\8\Project1\x64\Debug\Project1.exe
